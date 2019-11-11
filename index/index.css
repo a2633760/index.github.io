@@ -3,5 +3,11 @@ body{
     color:blue;
 =======
     color:pink;
+<<<<<<< HEAD
+>>>>>>> develop
+=======
+}
+body{
+    color: red;
 >>>>>>> develop
 }
